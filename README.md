@@ -1,7 +1,7 @@
 # Projeto com README
 Um projeto de teste com um arquivo README 😉
 
-[<img src="./Animação JW.gif" alt="gif da tela inicial do projeto">](https://google.com)
+[<img src="./Animação JW.gif" alt="gif da tela inicial do projeto">](https://jw.org)
 
 ## Tecnologias utilizadas
 - HTML
